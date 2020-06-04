@@ -30,7 +30,10 @@ yarn.lock
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-
+.idea/ironPets-typescript.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/.gitignore
 # Generated files
 .idea/**/contentModel.xml
 
