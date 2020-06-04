@@ -104,3 +104,4 @@ npm-debug.log
 
 #Enviroment Variable should NEVER be published
 .env
+.idea
